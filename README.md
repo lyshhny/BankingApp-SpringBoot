@@ -15,9 +15,3 @@ A secure banking application built using **Java**, **Spring Boot**, and **Maven*
 - Maven
 - Spring Security (if applicable)
 - H2 or MySQL Database
-
-## Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/SimpleBankingApp.git

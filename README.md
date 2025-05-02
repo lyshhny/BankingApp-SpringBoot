@@ -13,5 +13,5 @@ A secure banking application built using **Java**, **Spring Boot**, and **Maven*
 - Java 17+
 - Spring Boot
 - Maven
-- Spring Security (if applicable)
+- Spring Security
 - H2 or MySQL Database
